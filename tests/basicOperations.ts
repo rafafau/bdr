@@ -56,3 +56,12 @@ function add(a: number, b: number): number {
 
 let suma = add(4, 5)
 console.log(suma)
+
+// Zmiana stałej string na liczbę
+const textNumber:string = '6'
+let secondNumber: number = 10
+console.log(Number(textNumber) + secondNumber)
+
+// bool
+let bool1 = true
+
